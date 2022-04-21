@@ -1,4 +1,5 @@
-# Snake - Game
+## Snake - Game
+
 No framework, only js snake game from scratch
 
 
