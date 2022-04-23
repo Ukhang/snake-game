@@ -1,6 +1,6 @@
 ## Snake - Game 🐍
 
-No framework, only js snake game from scratch
+No framework, only js snake game from scratch...
 
 
 ## Demo
