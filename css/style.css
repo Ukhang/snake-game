@@ -31,14 +31,6 @@
     font-weight: bold;
     font-family: 'New Tegomin', serif;
 }
-#founder {
-    position: absolute;
-    top: 129px;
-    right: 22px;
-    font-size: 23px;
-    font-weight: bold;
-    font-family: 'New Tegomin', serif;
-}
 
 #board{
     background-color: black;
@@ -54,16 +46,15 @@
     background-color: rgb(107, 197, 141);
     border: 2px solid rgb(34, 4, 34); 
     transform: scale(1.02);
-    border: .25vmin solid white;
+    border: 1px solid black;
 }
 
 .snake{
     background-color: rgb(107, 197, 141);
-    border: .25vmin solid white;
+    border: 1px solid black;
 }
 
 .food{
-    background-color: yellow;
-    border: .25vmin solid black;
-    border-radius: 5px;
+    background-color: red;
+    border: 1px solid black;
 }
