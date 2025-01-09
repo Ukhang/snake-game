@@ -27,7 +27,7 @@ Follow these steps to set up and run the game locally:
    ```
 5. Open the game in your browser at:
    ```
-   http://localhost:3000
+   http://localhost:3000](http://localhost:5173/)
    ```
 
 ## Directory Structure
