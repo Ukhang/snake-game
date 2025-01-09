@@ -11,11 +11,11 @@ Follow these steps to set up and run the game locally:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ukhang/snake-game.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd snake-game
    ```
 3. Install dependencies:
    ```bash
