@@ -1,4 +1,3 @@
-// src/scripts/food.ts
 export class Food {
   private food: { x: number; y: number };
 

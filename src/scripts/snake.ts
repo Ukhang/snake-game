@@ -1,4 +1,3 @@
-// src/scripts/snake.ts
 export class Snake {
   private snakeArr: { x: number; y: number }[];
   private inputDir: { x: number; y: number };
