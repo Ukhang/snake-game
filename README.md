@@ -3,8 +3,7 @@
 Experience the nostalgia of the classic Snake game, crafted from the ground up, showcasing pure coding ingenuity.
 
 ## Demo
-
-![screenshot](https://user-images.githubusercontent.com/94834060/163021895-45898c1b-44d4-46dc-bc84-3c60cd62d12e.png)
+![Screenshot 2025-01-09 at 4 15 35 PM](https://github.com/user-attachments/assets/40ec5e29-b313-44f4-9572-8775b19572f7)
 
 ## Installation
 
@@ -12,11 +11,11 @@ Follow these steps to set up and run the game locally:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ukhang/snake-game.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <project-directory>
+   cd snake-game
    ```
 3. Install dependencies:
    ```bash
@@ -28,7 +27,7 @@ Follow these steps to set up and run the game locally:
    ```
 5. Open the game in your browser at:
    ```
-   http://localhost:3000
+   http://localhost:5173/
    ```
 
 ## Directory Structure
@@ -71,4 +70,4 @@ export default defineConfig({
 
 For any queries or suggestions, feel free to reach out:
 
-- Email: [ukhangmarma459@gmail.com](mailto:ukhangmarma459@gmail.com)
+- Email: [ukhangmarma459@gmail.com](mailtoukhangmarma459@gmail.com)
