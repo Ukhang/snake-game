@@ -27,7 +27,7 @@ Follow these steps to set up and run the game locally:
    ```
 5. Open the game in your browser at:
    ```
-   http://localhost:3000](http://localhost:5173/)
+   http://localhost:5173/
    ```
 
 ## Directory Structure
@@ -70,4 +70,4 @@ export default defineConfig({
 
 For any queries or suggestions, feel free to reach out:
 
-- Email: [ukhangmarma459@gmail.com](mailto:ukhangmarma459@gmail.com)
+- Email: [ukhangmarma459@gmail.com](mailtoukhangmarma459@gmail.com)
