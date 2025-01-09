@@ -3,8 +3,7 @@
 Experience the nostalgia of the classic Snake game, crafted from the ground up, showcasing pure coding ingenuity.
 
 ## Demo
-
-![screenshot](https://user-images.githubusercontent.com/94834060/163021895-45898c1b-44d4-46dc-bc84-3c60cd62d12e.png)
+![Screenshot 2025-01-09 at 4 15 35 PM](https://github.com/user-attachments/assets/40ec5e29-b313-44f4-9572-8775b19572f7)
 
 ## Installation
 
