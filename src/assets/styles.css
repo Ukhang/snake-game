@@ -1,48 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
-*{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
 
-.body{
-    background-color: white;
-    min-height: 100vh;
-    background-size: 100vw 100vh;
-    background-repeat: no-repeat;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: 'New Tegomin', serif;
-}
-
-#scoreBox{
-    position: absolute;
-    top: 9px;
-    right: 51px;
-    font-size: 39px;
-    font-weight: bold;
-    font-family: 'New Tegomin', serif;
-}
-
-#hiscoreBox{
-    position: absolute;
-    top: 59px;
-    right: 17px;
-    font-size: 39px;
-    font-weight: bold;
-    font-family: 'New Tegomin', serif;
-}
-
-#board{
-    background-color: black;
-    width: 90vmin;
-    height: 92vmin;
-    display: grid;
-    grid-template-rows: repeat(18, 1fr);
-    grid-template-columns: repeat(18, 1fr);
-}
-@import url("https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap");
 * {
   padding: 0;
   margin: 0;
@@ -57,35 +14,35 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: "New Tegomin", serif;
+  font-family: 'Inter', sans-serif;
 }
 
 #scoreBox {
   position: absolute;
   top: 9px;
   right: 51px;
-  font-size: 39px;
-  font-weight: bold;
-  font-family: "New Tegomin", serif;
+  font-size: 24px;
+  font-weight: medium;
 }
 
 #hiscoreBox {
   position: absolute;
   top: 59px;
-  right: 17px;
-  font-size: 39px;
-  font-weight: bold;
-  font-family: "New Tegomin", serif;
+  right: 51px;
+  font-size: 24px;
+  font-weight: medium;
 }
 
 #board {
-  background-color: black;
+  border: 1px solid #a3a3a3;
+  background-color: #fafafa;
   width: 90vmin;
   height: 92vmin;
   display: grid;
   grid-template-rows: repeat(18, 1fr);
   grid-template-columns: repeat(18, 1fr);
 }
+
 .head {
   background-color: rgb(107, 197, 141);
   border: 2px solid rgb(34, 4, 34);
@@ -99,6 +56,7 @@
 }
 
 .food {
-  background-color: red;
+  background-color: yellow;
   border: 1px solid black;
+  border-radius: 4px;
 }
